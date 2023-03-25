@@ -1,0 +1,26 @@
+h1, a{
+	color: white;
+	font-family: 'Lato';
+	font-size: 28px;
+}
+li{
+	color: white;
+	list-style: none;
+}
+.flex{
+	display: flex;
+}
+.col{
+	flex-direction: column;
+	align-items: center;
+}
+main{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	size: 100vw;
+	gap: 50px;
+}
+body{
+	background-color: orange;
+}
